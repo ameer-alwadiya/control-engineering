@@ -2,12 +2,6 @@
 
 This project implements a multi-threaded application using an RTOS to control various hardware components, including SPI communication, LED flashing, button interaction, and audio output. The application consists of several threads, each responsible for different functionalities:
 
-<div align="center">
-
-  [Video](https://github.com/ameer-alwadiya/real-time-accelerometer/assets/127532790/6cc7d629-e0c4-475f-80cb-ad1b9a40a2fe)
-
-</div>
-
 - **SPI Thread**: Initializes SPI communication and handles data transmission.
 - **LED Flasher Thread**: Controls LED flashing patterns.
 - **Button Thread**: Manages button interactions to control which thread is active.
@@ -63,11 +57,6 @@ This project implements a multi-threaded application using an RTOS to control va
 - **`osObjects.h`**: Contains RTOS object definitions.
 - **`Report.pdf`**: UML diagram and detailed report of the project.
 
-## Getting Started
-
-1. **Setup**: Ensure you have the necessary RTOS and hardware dependencies.
-2. **Compile**: Use your preferred build system to compile the project.
-3. **Upload**: Flash the compiled binary to your hardware.
 
 
 For any questions or support, please contact ameer.alwadiya@outlook.com.
