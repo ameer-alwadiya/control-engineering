@@ -2,12 +2,6 @@
 
 This project involves the design and implementation of an integrated navigation system that combines GPS, IMU, and air-data inputs. The system utilizes the Extended Kalman Filter (EKF) to estimate 12 states, including position, velocity, attitude, and wind components. The design process includes deriving Jacobian matrices, implementing the EKF, removing sensor biases, detecting and diagnosing faults, and addressing cyber attack events.
 
-<div align="center">
-
-  ![Screenshot 2024-10-20 at 11 18 16 AM](https://github.com/user-attachments/assets/517259ad-94f8-42e8-ae45-ccfeed48bd53)
-
-</div>
-
 ## Project Structure
 
 - `SID230255137.m`: MATLAB script file for implementing the Extended Kalman Filter and related tasks.
@@ -78,7 +72,3 @@ Derivation of Jacobian matrices necessary for the EKF with a nonlinear system.
 - MATLAB R2021a or later
 - Signal Processing Toolbox
 - Control System Toolbox
-
-## Contact
-
-For any questions or issues, please contact ameer.alwadiya@outlook.com.
