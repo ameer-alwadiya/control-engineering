@@ -55,10 +55,7 @@ This project implements a multi-threaded application using an RTOS to control va
 - **`my_headers.c`**: Implementation of additional utility functions.
 - **`my_headers.h`**: Header file for additional utility functions and structs.
 - **`osObjects.h`**: Contains RTOS object definitions.
-- **`Report.pdf`**: UML diagram and detailed report of the project.
 
 
-
-For any questions or support, please contact ameer.alwadiya@outlook.com.
 
 
