@@ -108,21 +108,3 @@ Reduces the population based on non-dominated sorting and crowding distance.
 
 ### `Hypervolume_MEX(Z, HV_max)`
 Calculates the hypervolume of the Pareto front.
-
-## How to Use
-
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/ameer-alwadiya/Multi-objective-optimization-for-PI-controller.git
-   ```
-
-2. **Navigate to the Project Directory**:
-   ```sh
-   cd Multi-objective-optimization-for-PI-controller
-   ```
-
-3. **Run the Optimization**:
-   Execute the main script to start the optimization process. Ensure that all dependencies are installed.
-
-4. **Analyze Results**:
-   Check the generated plots and figures to review the optimization results.
