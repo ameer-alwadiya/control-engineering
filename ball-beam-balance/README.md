@@ -4,11 +4,6 @@
 
 The objective of this project is to stabilize and control the position of a ball on a beam. This involves designing a suitable controller and model for the system. The project includes plant modeling, DC motor modeling, controller design, and testing both in Simulink and on hardware.
 
-<div align="center">
-
-  [Video](https://github.com/ameer-alwadiya/Ball-and-Beam-Balance-Control-System/assets/127532790/c3fe885b-00c9-4214-ae2b-99b8005e0620)
-
-</div>
 <!-- Continue with the rest of your README content -->
 
 ## Files Included
@@ -64,13 +59,5 @@ The objective of this project is to stabilize and control the position of a ball
 - Installation of a second sensor (e.g., ultrasonic sensor) for improved ball position measurement.
 - Further development of the Simulink model and integration with ongoing research.
 - Implementation of prediction methods for ball position under uncertainty, such as using a Kalman filter.
-
-## Questions?
-
-If you have any questions or need further assistance, please contact the author at ameer.alwadiya@outlook.com.
-
-## Acknowledgements
-
-Thank you for using this project. We hope it helps you in your research and development efforts.
 
 
